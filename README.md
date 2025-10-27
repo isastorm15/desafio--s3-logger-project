@@ -107,7 +107,6 @@ s3-upload-logger-s3-logger-stack
 
 ---
 
-## 🧩 Estrutura do Projeto
 
 
 
